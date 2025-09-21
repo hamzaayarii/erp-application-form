@@ -1,0 +1,28 @@
+{
+  "universities": [
+    { "name": "University of Tunis", "location": "Tunis", "type": "public" },
+    { "name": "University of Carthage", "location": "Carthage", "type": "public" },
+    { "name": "University of Sousse", "location": "Sousse", "type": "public" },
+    { "name": "University of Sfax", "location": "Sfax", "type": "public" },
+    { "name": "University of Monastir", "location": "Monastir", "type": "public" },
+    { "name": "University of Kairouan", "location": "Kairouan", "type": "public" },
+    { "name": "University of Gabès", "location": "Gabès", "type": "public" },
+    { "name": "University of Gafsa", "location": "Gafsa", "type": "public" },
+    { "name": "University of Jendouba", "location": "Jendouba", "type": "public" },
+    { "name": "University of Manouba", "location": "Manouba", "type": "public" },
+    { "name": "Tunis Business School", "location": "Tunis", "type": "private" },
+    { "name": "ESPRIT", "location": "Tunis", "type": "private" },
+    { "name": "SUPCOM", "location": "Tunis", "type": "public" },
+    { "name": "ENSI", "location": "Manouba", "type": "public" },
+    { "name": "ENIT", "location": "Tunis", "type": "public" },
+    { "name": "ENSIT", "location": "Tunis", "type": "public" },
+    { "name": "INSAT", "location": "Tunis", "type": "public" },
+    { "name": "ISG Tunis", "location": "Tunis", "type": "public" },
+    { "name": "IHEC Carthage", "location": "Carthage", "type": "public" },
+    { "name": "FSEG Tunis", "location": "Tunis", "type": "public" },
+    { "name": "Université Centrale", "location": "Tunis", "type": "private" },
+    { "name": "Université Libre de Tunis", "location": "Tunis", "type": "private" },
+    { "name": "SESAME University", "location": "Tunis", "type": "private" },
+    { "name": "Other", "location": "", "type": "custom" }
+  ]
+}
